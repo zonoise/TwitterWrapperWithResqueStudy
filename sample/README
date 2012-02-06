@@ -1,0 +1,8 @@
+Twitter API から取得した情報をRedisに保存するジョブをResqueを使って処理する。
+
+1.start Redis server
+2.start Worker
+  worker start script at /worker dir
+3.get your Oauth keys and secrets
+4.customize example script
+5.run

@@ -1,0 +1,8 @@
+test:
+  consumer_key       : 'XXXXX'
+  consumer_secret    : 'XXXXX'
+  oauth_token        : 'XXXXX'
+  oauth_token_secret : 'XXXXX'
+
+
+
